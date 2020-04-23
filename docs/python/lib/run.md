@@ -75,4 +75,4 @@ prog_name kreuzberg
 
 **Responses**
 
-See [primitive responses](/lib/responses#primitive-responses).
+See [primitive responses](/python/lib/responses#primitive-responses).
