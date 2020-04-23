@@ -3,7 +3,7 @@ You can trigger it from another service (i.e. via webhooks) or use it as a simpl
 
 ## URL
 
-You can a program's ***unique*** URL by clicking on the **VIEW** tab on the right within the [Studio](https://web.deta.sh/studio):
+You can access a program's ***unique*** URL by clicking on the **VIEW** tab on the right within the [Studio](https://web.deta.sh/studio):
 
 ![Finding the URL of a program](/images/url.png)
 
