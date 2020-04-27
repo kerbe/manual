@@ -28,9 +28,14 @@ ls <group_name>
 
 Names can contain letters, digits, `-` and `_`. No spaces or other characters are allowed.
 
-Create a program:
+Create a Python program:
 ```ruby
 new <program_name>
+```
+
+Create a Node.js program:
+```ruby
+new <program_name> -js
 ```
 
 Optionally create a program in a group:
