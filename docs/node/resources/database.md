@@ -125,6 +125,15 @@ Retrieving an item with a key that does not exist will throw an **`Error`**.
 
 Deleting will not raise any errors, even if the key does not exist.
 
+##### Delete all
+You can delete all items from the database by looping through all keys. Here is simple example you can expand for your needs.
+```
+const dbContent = await db.all();
+dbContent.forEach(obj => {
+   db.delete(obj.key);
+});
+```
+
 <br />
 
 #### All
